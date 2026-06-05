@@ -1,0 +1,38 @@
+*{
+    background-color: #646464;
+    color: #fff;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    height: 50px;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+label{
+    font-size: 60px;
+    margin-left: 475px;
+}
+#guessField{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 510px;
+    height: 35px;
+    width: 300px;
+    color: black;
+    background-color: #fff;
+    border: 2px,solid,black;
+}
+#submit{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 540px;
+    font-size: 20px;
+    height: 45px;
+    width: 250px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+}
